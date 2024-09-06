@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Added unit tests to run in Windows PowerShell.
 - Public commands:
   - `Update-GitBranch`
+  - `Rename-GitLocalBranch`
 
 ### Fixed
 
